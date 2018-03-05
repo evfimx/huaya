@@ -1,0 +1,21 @@
+{
+  'avisos': [
+    {
+      'url_img': "http://ejemplo.com/imagen.png",
+      'titulo': "Fiesta Patronal",
+      'mensaje': "Se invita a toda los habitantes de la region",
+      'lugar': "Zacualtipan",
+      'fecha': "19/abril/2018",
+      'quien_invita': "Juan Sanchéz"
+    },
+    {
+      'url_img': "http://ejemplo.com/imagen.png",
+      'titulo': "Fiesta Patronal",
+      'mensaje': "Se invita a toda los habitantes de la region",
+      'lugar': "Zacualtipan",
+      'fecha': "19/abril/2018",
+      'quien_invita': "Juan Sanchéz"
+    }
+
+  ]
+}
