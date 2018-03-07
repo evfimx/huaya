@@ -1,20 +1,12 @@
 {
   "avisos": [
     {
-      "url_img": "https://huayacocotla.files.wordpress.com/2014/03/124.jpg",
-      "titulo": "Fiesta Patronal",
-      "mensaje": "Se invita a toda los habitantes de la region",
+      "url_img": "http://insanrafael.com.ar/images/sin-evento.png",
+      "titulo": "Sin Avisos",
+      "mensaje": "Actualmente no hay ningun aviso o fiesta que mencionar, manda tu aviso",
       "lugar": "Huayacocotla",
-      "fecha": "25/abril/2018",
+      "fecha": "sin fecha",
       "quien_invita": "Radio Huayacocotla"
-    },
-    {
-      "url_img": "http://dondeviajar.republica.com/files/2011/04/Jaramijo_-_Fiestas_de_San_Pedro_y_San_Pablo1-300x224.jpg",
-      "titulo": "Gran Fiesta",
-      "mensaje": "Estará tocando el trio Estrella Zacualtipense",
-      "lugar": "San Pablo",
-      "fecha": "28/septiembre/2018",
-      "quien_invita": "La comunidad"
     }
 
   ]
