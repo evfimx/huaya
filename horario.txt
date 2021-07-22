@@ -1,0 +1,4 @@
+"http://radiohuaya.iberopuebla.mx/wp-content/uploads/2018/09/1.png",
+"http://radiohuaya.iberopuebla.mx/wp-content/uploads/2018/09/2.png",
+"http://radiohuaya.iberopuebla.mx/wp-content/uploads/2018/09/3.png",
+"http://radiohuaya.iberopuebla.mx/wp-content/uploads/2018/09/4.png"
